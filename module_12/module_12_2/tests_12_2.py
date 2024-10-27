@@ -51,3 +51,6 @@ class TournamentTest(un.TestCase):
     def tearDownClass(cls):
         for k, v in all_results.items():
             print(v)
+
+if __name__ == "__main__":
+    un.main()

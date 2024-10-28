@@ -5,7 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c5db4229-0458-4926-8e1b-f29ab96252c8" name="Changes" comment="Модуль 12">
-      <change beforePath="$PROJECT_DIR$/module_12/module_12_2/tests_12_2.py" beforeDir="false" afterPath="$PROJECT_DIR$/module_12/module_12_2/tests_12_2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/module_12/module_12_3/code.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/module_12/module_12_3/suite_12_3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/module_12/module_12_3/tests_12_3.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,6 +51,7 @@
     "Python tests.Python tests in The_source_code.py.executor": "Run",
     "Python tests.Python tests in tests_12_1.py.executor": "Run",
     "Python tests.Python tests in tests_12_2.py.executor": "Run",
+    "Python tests.Python tests in tests_12_3.py.executor": "Run",
     "Python.!.executor": "Run",
     "Python.04_introspection.executor": "Run",
     "Python.05_lib_usage.executor": "Run",
@@ -55,6 +59,7 @@
     "Python.code.executor": "Run",
     "Python.module_11_1.executor": "Run",
     "Python.module_11_2.executor": "Run",
+    "Python.suite_12_3.executor": "Run",
     "Python.tests_12_1.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master"
@@ -129,7 +134,15 @@
       <option name="project" value="LOCAL" />
       <updated>1730035884168</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Модуль 12">
+      <option name="closed" value="true" />
+      <created>1730036375839</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1730036375839</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
